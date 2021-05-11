@@ -9,4 +9,4 @@
     /*------------*/
     mail('mix19942321@gmail.com', $nombre, $email, $telefono, $asunto, $mensaje);
 
-¿>
+?>
